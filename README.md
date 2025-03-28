@@ -1,4 +1,4 @@
 # Fridge Hacks
 
-Online Recipe Book for the Gab community for making tasty treats.
+Online Recipe Book for the socials for making tasty treats.
 
